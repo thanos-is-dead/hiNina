@@ -127,34 +127,7 @@ body{
 
 
 
-@media (max-width: 768px){
-  h1{
-    font-size: 25px;
-    margin-right: 50;
-  }
 
-
-  .img-container::after {
-    display: none;
-    content: '';
-    background-color: #fff;
-    border-radius: 50%;
-    position: absolute;
-    bottom: 90%;
-    left: 50%;
-    width: 20px;
-    height: 20px;
-    transform: translate(-50%, 50%);
-  }
-  .music-container{
-    margin-right: 50;
-  }
-
- .action-btn{
-   padding: 5px;
-   margin: 0 5px;
- }
-}
 
 
 
